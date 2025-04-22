@@ -35,12 +35,13 @@ npm install
 
 npm run dev
 
-Como Usar
-Adicionar Transações: Clique no formulário para adicionar novas transações de entrada ou saída.
+Como Usar:
 
-Visualizar Gráfico: O gráfico exibirá automaticamente as entradas e saídas financeiras registradas.
+- Adicionar Transações: Clique no formulário para adicionar novas transações de entrada ou saída.
 
-Filtrar por Data: Utilize o filtro de data para buscar transações específicas.
+- Visualizar Gráfico: O gráfico exibirá automaticamente as entradas e saídas financeiras registradas.
+
+- Filtrar por Data: Utilize o filtro de data para buscar transações específicas.
 
 Contribuições
 Sinta-se à vontade para fazer contribuições, sugestões ou melhorias no código. Se você encontrar algum bug ou deseja adicionar uma nova funcionalidade, abra um Issue ou um Pull Request.
